@@ -1,0 +1,2 @@
+export RELEASE="v1.0"
+export TAGS=(dockercone:1.0)
